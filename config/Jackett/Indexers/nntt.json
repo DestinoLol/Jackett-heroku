@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "http://www.animeclipse.com/"
+    "value": "http://www.nntt.org/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "ACphpbb2__data=a%3A2%3A%7Bs%3A11%3A%22autologinid%22%3Bs%3A0%3A%22%22%3Bs%3A6%3A%22userid%22%3Bi%3A-1%3B%7D; ACphpbb2__sid=7293b5e4a36f7eab0235fa7a98836865; ACphpbb2____lastvisit=1634108250"
+    "value": "phpbb3_5xgen_u=1; phpbb3_5xgen_sid=34809fc4f9a663759d487d86a9e8e556"
   },
   {
     "id": "lasterror",
@@ -21,21 +21,22 @@
     "id": "sortrequestedfromsite",
     "type": "inputselect",
     "name": "Sort requested from site",
-    "value": "added",
+    "value": "t",
     "options": {
-      "added": "created",
-      "seeders": "seeders",
-      "size": "size"
+      "t": "created",
+      "ts": "seeders",
+      "sz": "size",
+      "i": "title"
     }
   },
   {
     "id": "orderrequestedfromsite",
     "type": "inputselect",
     "name": "Order requested from site",
-    "value": "DESC",
+    "value": "d",
     "options": {
-      "DESC": "desc",
-      "ASC": "asc"
+      "d": "desc",
+      "a": "asc"
     }
   },
   {

@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://eztv.re/"
+    "value": "https://mikanani.me/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=920b1a8295466b051e533b3b1d84f415"
+    "value": null
   },
   {
     "id": "lasterror",

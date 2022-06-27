@@ -3,7 +3,7 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.limetorrents.pro/"
+    "value": "https://isohunt.nz/"
   },
   {
     "id": "cookieheader",
@@ -18,33 +18,31 @@
     "value": null
   },
   {
-    "id": "downloadlink",
+    "id": "categoryfilter",
     "type": "inputselect",
-    "name": "Download link",
-    "value": "magnet:",
+    "name": "Category Filter",
+    "value": "0",
     "options": {
-      "http://itorrents.org/": "iTorrents.org",
-      "magnet:": "magnet"
-    }
-  },
-  {
-    "id": "downloadlink(fallback)",
-    "type": "inputselect",
-    "name": "Download link (fallback)",
-    "value": "http://itorrents.org/",
-    "options": {
-      "http://itorrents.org/": "iTorrents.org",
-      "magnet:": "magnet"
+      "0": "All",
+      "1": "Anime",
+      "2": "Software",
+      "3": "Games",
+      "4": "Adult",
+      "5": "Movies",
+      "6": "Music",
+      "7": "Other",
+      "8": "Series & TV",
+      "9": "Books"
     }
   },
   {
     "id": "sortrequestedfromsite",
     "type": "inputselect",
     "name": "Sort requested from site",
-    "value": "date",
+    "value": "created_at",
     "options": {
-      "date": "created",
-      "seeds": "seeders",
+      "created_at": "created",
+      "seeders": "seeders",
       "size": "size"
     }
   },
