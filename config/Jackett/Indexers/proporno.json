@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://yts.mx/"
+    "value": "https://proporno.org/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=lfr4qohf5mqvf2uqg2asqu9glk"
+    "value": "PHPSESSID=phkh5ur0h0mgscc3roapolf2u3; dle_user_id=deleted; dle_password=deleted; dle_hash=deleted"
   },
   {
     "id": "lasterror",

@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://yts.mx/"
+    "value": "https://showrss.info/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=lfr4qohf5mqvf2uqg2asqu9glk"
+    "value": "XSRF-TOKEN=eyJpdiI6InBZdCtxaitsT2RuK2l5bkprcVlnb2c9PSIsInZhbHVlIjoiVGZmVmNGXC82cjA1aVwvTnNydjM2YjVvSmpBKzRuRldnZFR3WmNzbVYwa0lWNHdaXC91dHNJZURsUTR4YVYrSlJieCIsIm1hYyI6IjJhMGM5ZmJhMzUwMzAxODU1NzQyZjFkM2JkM2JiMTAzM2FiZDQ1MzIzZTM0NWUwZjAwN2M0ZTA2NzVhMTVkNjUifQ%3D%3D"
   },
   {
     "id": "lasterror",

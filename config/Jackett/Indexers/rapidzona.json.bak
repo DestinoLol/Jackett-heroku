@@ -3,7 +3,7 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.torlock.com/"
+    "value": "https://rapidzona.tv/"
   },
   {
     "id": "cookieheader",
@@ -18,14 +18,13 @@
     "value": null
   },
   {
-    "id": "sortrequestedfromsite(onlyworksforsearchwithkeywords)",
+    "id": "sortrequestedfromsite",
     "type": "inputselect",
-    "name": "Sort requested from site (only works for search with keywords)",
-    "value": "added",
+    "name": "Sort requested from site",
+    "value": "date",
     "options": {
-      "added": "created",
-      "seeds": "seeders",
-      "size": "size"
+      "date": "created",
+      "title": "title"
     }
   },
   {
